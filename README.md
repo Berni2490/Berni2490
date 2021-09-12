@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Berni2490
+- 👀 I’m interested in Unity
+- 🌱 I’m currently learning C#
