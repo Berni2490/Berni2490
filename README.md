@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Berni2490
-- 👀 I’m interested in Unity
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Technical Writing.
+- 🌱 I’m currently learning Python, Godot
